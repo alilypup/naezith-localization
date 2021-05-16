@@ -53,9 +53,9 @@
 		"Landing a hook grants you a double jump.",
 		"Jump during the dash to jump higher.",
 		"The longer your hook beam is, the more speed you'll gain when you swing.",
-		"Release the hook when you are at bottom of the swing to have more horizontal speed.",
-		"Dash during swing is most effective when you are at bottom of the swing, to gain speed and height.",
-		"Use your double jump as late as possible, you might need it any time."
+		"Release the hook when you are at the bottom of a swing to have more horizontal speed.",
+		"Dashing during a swing is most effective when you are at the bottom of the swing to gain speed and height.",
+		"Use your double jump as late as possible; you might need it any time."
 	],
 
 	"global_ranks": {
